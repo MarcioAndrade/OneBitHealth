@@ -2,6 +2,7 @@
 * Treinamento React-Native do canal do Youtube One Bit Code https://www.youtube.com/watch?v=Y8tP1jbRYHY&list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_&index=1
 * https://onebitcode.com/aula-2-curso-react-native-aprendiz/
 * https://onebitcode.com/aula-3-curso-react-native-aprendiz/
+* https://onebitcode.com/aula-4-curso-react-native-aprendiz/
 	
 ## 1. Pré requisitos
 * Node JS
